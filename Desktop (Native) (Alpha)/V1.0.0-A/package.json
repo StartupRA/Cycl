@@ -1,0 +1,14 @@
+{
+  "name": "CyclA",
+  "version": "1.0.0A",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "AR Development",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
